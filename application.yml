@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://192.168.165.3:3306/sample?createDatabaseIfNotExist=true
+    url: jdbc:mysql://192.168.165.3:3306/rentDB?createDatabaseIfNotExist=true
     username: developer
     password: ITAdmin@2020
     driver-class-name: com.mysql.cj.jdbc.Driver
